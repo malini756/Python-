@@ -1,0 +1,7 @@
+s = "python programming"
+sub = "python"
+
+if sub in s:
+    print("Substring found")
+else:
+    print("Substring not found")

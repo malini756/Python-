@@ -1,0 +1,2 @@
+l=["Python","Java","C"]
+print("-".join(l))
